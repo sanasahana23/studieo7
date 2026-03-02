@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studieo7.in/sitemap.xml
+
+# Studieo7 Family Salon and Bridal Studio
+# India's First Digital Salon - Trichy
